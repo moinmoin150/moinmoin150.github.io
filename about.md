@@ -11,7 +11,5 @@ permalink: /about/
 
 本博客99.9%用于存放GGADGG+Newt相关的翻译或原创车车。
 
-可使用[存档](https://moinmoin.writeas.com/cun-dang)，[标签](https://moinmoin.writeas.com/biao-qian)，或[搜索](https://moinmoin.writeas.com/search)寻找想看的内容。有问题可以随时上Lofter或微博↑找我。
-
 请享用。
 
