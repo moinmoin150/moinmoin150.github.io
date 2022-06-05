@@ -54,6 +54,11 @@
           {{content}}
         </section>
         <footer class="post-footer">
+          <section class="tags">
+            {% for tag in page.tags %}
+                {{ tag }}
+            {% endfor %}
+          </section>
           <section class="share">
             {% for social in site.social %}
               {% if social.share_url != null %}
