@@ -3,7 +3,7 @@ layout: post
 title:  "意外礼物（24.3）"
 date:   2022-06-05
 categories: blog
-tags: featured 意外礼物 翻译 TopGellert JessicaGraves
+tags: 意外礼物 翻译 TopGellert JessicaGraves
 ---
 
 ## 第二十四章：摊牌（下）
