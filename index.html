@@ -24,9 +24,9 @@ title: Home
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-<!--       <a href={{ "/about/" | prepend: site.baseurl }}>关于我</a>
+      <a href={{ "/about/" | prepend: site.baseurl }}>关于我</a>
       <p>  </p>
-      <a href={{ "/archive/" | prepend: site.baseurl }}>归档</a> -->
+      <a href={{ "/archive/" | prepend: site.baseurl }}>归档</a>
     </div>
 </header>
 
@@ -78,10 +78,10 @@ title: Home
       {% endfor %}
     </div>
     
-    <div style="margin-top:50px">
+<!--     <div style="margin-top:50px">
         <h2><i class="fa fa-tags fa-fw"></i> More posts by tag:</h2>
         {% include all_tags.html %}
-    </div>
+    </div> -->
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
