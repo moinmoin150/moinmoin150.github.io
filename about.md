@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+自2020年12月跌进哈利波特/神奇动物坑以来，不知为何至今没有爬出来的社畜技术宅。
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+* [Lofter](https://moinmoin150.lofter.com)
+* [Weibo](https://weibo.com/u/7534769277)（没打理过，就是中转站）
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+本博客99.9%用于存放GGADGG+Newt相关的翻译或原创车车。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+可使用[存档](https://moinmoin.writeas.com/cun-dang)，[标签](https://moinmoin.writeas.com/biao-qian)，或[搜索](https://moinmoin.writeas.com/search)寻找想看的内容。有问题可以随时上Lofter或微博↑找我。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+请享用。
+
