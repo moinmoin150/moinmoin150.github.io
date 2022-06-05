@@ -53,9 +53,7 @@
           <a name="topofpage"></a>
           {{content}}
           <div class="tags">
-            {% for tag in post.tags %}
-                {{ tag }}
-            {% endfor %}
+            {% include post_tags.html %}
           </div>
         </section>
         <footer class="post-footer">
@@ -120,6 +118,5 @@
       </div>
     </div>
     {% include javascripts.html %}
-    {% include post_tags.html %}
   </body>
 </html>
