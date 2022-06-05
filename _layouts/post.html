@@ -52,13 +52,13 @@
           </div>
           <a name="topofpage"></a>
           {{content}}
-        </section>
-        <footer class="post-footer">
-          <section class="tags">
+          <div class="tags">
             {% for tag in post.tags %}
                 {{ tag }}
             {% endfor %}
-          </section>
+          </div>
+        </section>
+        <footer class="post-footer">
           <section class="share">
             {% for social in site.social %}
               {% if social.share_url != null %}
