@@ -1,61 +1,11 @@
 ---
+layout: default
 ---
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body itemscope itemtype="http://schema.org/Article">
-    {% include header.html %}
-    <main class="content" role="main">
-      <article class="post">
-        <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image | prepend: site.baseurl }}{% endif %})">
-            Article Image
-          </div>
-          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 | prepend: site.baseurl }}{% endif %})">
-            Article Image
-          </div>
-          <div class="post">
-            <h1>Tag: {{ page.tag }}</h1>
-            <ul>
-            {% for post in site.tags[page.tag] %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-                {{ post.content | truncate: 200 }}
-              </li>
-            {% endfor %}
-            </ul>
-          </div>
-        <footer class="post-footer">
-          {% include archive.html %}
-        </footer>
-        
-        {%if site.disqus %}
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-            var disqus_shortname = '{{site.disqus}}'; // required: replace example with your forum shortname
-
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        {% endif %}
-      </article>
-    </main>
-    <div class="bottom-closer">
-      <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
-        Image
-      </div>
-      <div class="inner">
-        <h1 class="blog-title">{{ site.title }}</h1>
-        <a href={{ "/" | prepend: site.baseurl }} class="btn">返回主页</a>
-      </div>
-    </div>
-    {% include javascripts.html %}
-  </body>
-</html>
-
-
+<h1>Tag: {{ page.tag }}</h1>
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.content | truncate: 200 }}
+  </li>
+{% endfor %}
+</ul>
