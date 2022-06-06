@@ -5,15 +5,15 @@ date:   2022-06-06
 categories: blog
 tags: 翻译 TopAlbus
 ---
-*原作：Sweets and Depravity by earthphoenix (roughknuckles)*
-后半
-前文：https://moinmoin150.lofter.com/post/1ebe7c87_2b59937b5
+> *原作：Sweets and Depravity by earthphoenix (roughknuckles)*
+> 后半
+> 前文：https://moinmoin150.lofter.com/post/1ebe7c87_2b59937b5
 
 
 一颗石子在窗上弹了三下，温柔礼貌地敲打着金色烛火边的玻璃。
 
 盖勒特打开窗，故作嗔怪地压低嗓音向黑夜里喊道：“……是谁在哪儿？凌晨三点打扰良民？”
-<!--more-->
+
 阿不思探出头，他悄声走在盖勒特房间上方的屋檐上。“毕竟是你先提出的……”
 
 “我知道……进来。”盖勒特笑着从窗边闪开身。
