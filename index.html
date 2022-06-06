@@ -24,7 +24,7 @@ title: Home
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-<!--       <a href={{ "/about/" | prepend: site.baseurl }}>关于我</a> -->
+      <a href={{ "/about/" | prepend: site.baseurl }}>关于我</a>
 <!--       <p>  </p> -->
       <a href={{ "/archive/" | prepend: site.baseurl }}>归档</a>
     </div>
@@ -78,7 +78,7 @@ title: Home
       {% endfor %}
     </div>
     
-<!--     {% include archive.html %} -->
+    {% include archive.html %}
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
