@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "糖果与堕落"
-date:   2022-06-06
+date:   2022-05-06
 categories: blog
 tags: 翻译 TopAlbus
 ---
