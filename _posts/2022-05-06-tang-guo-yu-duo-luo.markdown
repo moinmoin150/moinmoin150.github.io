@@ -2,7 +2,8 @@
 layout: post
 title:  "糖果与堕落"
 date:   2022-05-06
-categories: blog
+categories: 翻译
+permalink: /tang-guo-yu-duo-luo/
 tags: 翻译 TopAlbus
 ---
 > *原作：Sweets and Depravity by earthphoenix (roughknuckles)* \
