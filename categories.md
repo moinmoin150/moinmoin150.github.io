@@ -28,7 +28,7 @@ title: 分类
     <br>
   </span>
 </div>
-<hr class="rounded">
+<hr style="height:2px;border:none;color:#333;background-color:#333;">
 
 <div id="archives">
   {% for category in sortedcategories %}
@@ -37,16 +37,18 @@ title: 分类
       <div class="archive-group">
         <a name="{{ categoryitems[1] | slugize }}"></a>
         <h3 class="category-head">{{ categoryitems[1] }} <span>({{ categoryitems[2] }})</span></h3>
-        <hr class="rounded">
         <div class="category-posts">
         {% capture category_name %}{{ categoryitems[1] | slugize }}{% endcapture %}
+        <ul>
         {% for post in site.categories[category_name] %}
         <article class="archive-item">
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <li><a href="{{ site.baseurl }}{{ post.url }}">
               {{post.title}}
-            </a>
+            </a></li>
         </article>
         {% endfor %}
+        </ul>
+        <hr class="rounded">
         </div>
       </div>
     {% endif %}
