@@ -2,8 +2,8 @@
 layout: post
 title:  "意外礼物（24.3）"
 date:   2022-06-05
-categories: [blog,意外礼物]
-<!-- permalink: /tan-pai-xia/ -->
+categories: 意外礼物
+permalink: /tan-pai-xia/
 tags: 意外礼物 翻译 TopGellert JessicaGraves
 ---
 
