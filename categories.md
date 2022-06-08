@@ -7,7 +7,7 @@ title: 分类
 <div>
   <span class="all-categories">
     <h3 class="all-categories-head">所有分类</h3>
-    <hr>
+    <br>
   {% capture categories %}
     {% for category in site.categories %}
       {{ category[1].size | plus: 1000 }}#{{ category[0] }}#{{ category[1].size }}@
@@ -37,6 +37,7 @@ title: 分类
       <div class="archive-group">
         <a name="{{ categoryitems[1] | slugize }}"></a>
         <h3 class="category-head">{{ categoryitems[1] }} <span>({{ categoryitems[2] }})</span></h3>
+        <hr class="rounded">
         <div class="category-posts">
         {% capture category_name %}{{ categoryitems[1] | slugize }}{% endcapture %}
         {% for post in site.categories[category_name] %}
@@ -48,7 +49,6 @@ title: 分类
         {% endfor %}
         </div>
       </div>
-    <hr class="rounded">
     {% endif %}
   {% endfor %}
 </div>
