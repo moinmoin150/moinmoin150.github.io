@@ -24,6 +24,7 @@ title: 分类
     <br>
     <br>
     <br>
+    <hr class="rounded">
   </span>
 </div>
 
@@ -45,6 +46,7 @@ title: 分类
           </h4>
         </article>
         {% endfor %}
+        <hr class="rounded">
         </div>
       </div>
     {% endif %}
