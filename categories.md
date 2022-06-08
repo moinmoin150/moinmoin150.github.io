@@ -7,6 +7,7 @@ title: 分类
 <div>
   <span class="all-categories">
     <h3 class="all-categories-head">所有分类</h3>
+    <hr>
   {% capture categories %}
     {% for category in site.categories %}
       {{ category[1].size | plus: 1000 }}#{{ category[0] }}#{{ category[1].size }}@
@@ -40,11 +41,9 @@ title: 分类
         {% capture category_name %}{{ categoryitems[1] | slugize }}{% endcapture %}
         {% for post in site.categories[category_name] %}
         <article class="archive-item">
-          <h6>
             <a href="{{ site.baseurl }}{{ post.url }}">
               {{post.title}}
             </a>
-          </h6>
         </article>
         {% endfor %}
         </div>
