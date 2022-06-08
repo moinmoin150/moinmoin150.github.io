@@ -24,9 +24,9 @@ title: 分类
     <br>
     <br>
     <br>
-    <hr class="rounded">
   </span>
 </div>
+<hr class="rounded">
 
 <div id="archives">
   {% for category in sortedcategories %}
@@ -46,9 +46,9 @@ title: 分类
           </h4>
         </article>
         {% endfor %}
-        <hr class="rounded">
         </div>
       </div>
     {% endif %}
+  <hr class="rounded">
   {% endfor %}
 </div>
