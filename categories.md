@@ -41,16 +41,14 @@ title: 分类
         {% assign sortedPosts = site.categories[category_name] | sort: 'title' %}
         <ul>
         {% for post in sortedPosts %}
-        <article class="archive-item">
             <li><a href="{{ site.baseurl }}{{ post.url }}">
               {{post.title}}
             </a></li>
-        </article>
         {% endfor %}
         </ul>
-        <hr class="rounded">
         </div>
       </div>
+  <hr class="rounded">
     {% endif %}
   {% endfor %}
 </div>
