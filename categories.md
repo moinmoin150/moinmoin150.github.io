@@ -16,11 +16,9 @@ title: Categories
   {% for category in sortedcategories %}
     {% assign categoryitems = category | split: '#' %}
     {% if categoryitems[1] != null %}
-      <p>
-        <a href="{{site.baseurl}}/categories/#{{ categoryitems[1] | slugize }}">
+        <a href="{{site.baseurl}}/categories/#{{ categoryitems[1] | slugize }}"><code class="highligher-rouge"><nobr>
           {{ categoryitems[1] }}
-        </a>
-      </p>
+        </nobr></code>&nbsp;</a>
     {% endif %}
   {% endfor %}
   </span>
