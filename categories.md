@@ -26,8 +26,7 @@ title: 分类
     <br>
   </span>
 </div>
-<hr style="height:2px;border:none;color:#333;background-color:#333;">
-<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 <div id="archives">
   {% for category in sortedcategories %}
