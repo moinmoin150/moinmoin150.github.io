@@ -19,11 +19,11 @@ title: Categories
         <a href="{{site.baseurl}}/categories/#{{ categoryitems[1] | slugize }}"><code class="highligher-rouge"><nobr>
           {{ categoryitems[1] }}
         </nobr></code>&nbsp;</a>
-    <br>
-    <br>
-    <br>
     {% endif %}
   {% endfor %}
+    <br>
+    <br>
+    <br>
   </span>
 </div>
 
