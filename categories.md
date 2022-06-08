@@ -24,12 +24,11 @@ title: 分类
     {% endif %}
   {% endfor %}
     <br>
-    <br>
-    <br>
   </span>
 </div>
 <hr style="height:2px;border:none;color:#333;background-color:#333;">
-
+<br>
+<br>
 <div id="archives">
   {% for category in sortedcategories %}
     {% assign categoryitems = category | split: '#' %}
@@ -39,8 +38,9 @@ title: 分类
         <h3 class="category-head">{{ categoryitems[1] }} <span>({{ categoryitems[2] }})</span></h3>
         <div class="category-posts">
         {% capture category_name %}{{ categoryitems[1] | slugize }}{% endcapture %}
+        {% assign sortedPosts = site.categories[category_name] | sort: 'title' %}
         <ul>
-        {% for post in site.categories[category_name] %}
+        {% for post in sortedPosts %}
         <article class="archive-item">
             <li><a href="{{ site.baseurl }}{{ post.url }}">
               {{post.title}}
