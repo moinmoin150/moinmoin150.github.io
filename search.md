@@ -3,7 +3,11 @@ layout: page
 title: 搜索
 permalink: /search/
 ---
-<br/>&nbsp;
+
+{% include search-form.html %}
+
+
+<!-- <br/>&nbsp;
 <form action="get" id="site_search">
 <center>
   <input style="font-size:20px;" type="text" id="search_box">
@@ -18,3 +22,4 @@ permalink: /search/
 <script src="{{ "assets/js/lunr.js"  | prepend: site.baseurl  }}"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ "assets/js/search.js"  | prepend: site.baseurl  }}"></script>
+ -->
