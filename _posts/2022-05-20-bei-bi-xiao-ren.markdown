@@ -2,7 +2,7 @@
 layout: post
 title:  "卑鄙小人"
 date:   2022-05-20
-categories: pwp
+categories: One-shots
 permalink: /bei-bi-xiao-ren/
 tags: 翻译 TopAlbus
 ---
