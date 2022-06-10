@@ -3,7 +3,7 @@ layout: post
 title:  "GGAD之有问必答(5)"
 date:   2022-05-17
 categories: 有问必答
-permalink: /mao-dun-xia/
+permalink: /you-wen-bi-da-5/
 tags: 有问必答 翻译 AlbusGellertAlways
 ---
 
