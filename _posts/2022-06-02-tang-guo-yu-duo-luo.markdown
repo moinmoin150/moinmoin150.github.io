@@ -2,7 +2,7 @@
 layout: post
 title:  "糖果与堕落"
 date:   2022-06-02
-categories: one-shots
+categories: One-shots
 permalink: /tang-guo-yu-duo-luo/
 tags: 翻译 TopAlbus
 ---
