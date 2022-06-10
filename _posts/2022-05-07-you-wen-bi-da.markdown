@@ -2,7 +2,7 @@
 layout: post
 title:  "GGAD之有问必答(1)"
 date:   2022-05-07
-categories: 意外礼物
+categories: 有问必答
 permalink: /you-wen-bi-da/
 tags: 有问必答 翻译 AlbusGellertAlways
 ---
