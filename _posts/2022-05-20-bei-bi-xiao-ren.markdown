@@ -7,7 +7,7 @@ permalink: /bei-bi-xiao-ren/
 tags: 翻译 TopAlbus
 ---
 
-*wicked thing by kantele*
+*原作：wicked thing by kantele*
 
 这是一场偶遇，两双眼睛隔街相会。认出彼此的瞬间，魔杖出鞘，身肢交缠。
 
