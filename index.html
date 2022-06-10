@@ -92,14 +92,14 @@ title: Home
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
-        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
+        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; 更早的文章</a>
       {% endif %}
       <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
+          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>更新的文章 &rarr;</a>
         {% else %}
-          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>Newer posts &rarr;</a>
+          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>更新的文章 &rarr;</a>
         {% endif %}
       {% endif %}
     </nav>
