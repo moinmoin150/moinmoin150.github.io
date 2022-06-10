@@ -88,7 +88,7 @@ title: Home
       {% endfor %}
     </div>
     
-    {% include archive.html %}
+    
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
@@ -103,7 +103,9 @@ title: Home
         {% endif %}
       {% endif %}
     </nav>
-
+                                                
+    {% include archive.html %}
+                                                
 
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
