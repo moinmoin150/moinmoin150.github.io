@@ -4,7 +4,7 @@ title:  "自投罗网"
 date:   2022-06-13
 categories: Vogeldore
 permalink: /zi-tou-luo-wang/
-tags: 原创 练车 TopAnton
+tags: 原创 Vogeldore TopAnton
 ---
 
 国际巫师联合会在柏林召开大会的一年，阿不思·邓布利多在邀请名单上。他在嘈杂的人群中瞥见一个模糊的身影，他挺拔的身姿、宽阔的肩膀、穿衣打扮的风格，都让他瞬间回忆起了某个人，他感到胸口一阵刺痛，但目光还是追随着他。
