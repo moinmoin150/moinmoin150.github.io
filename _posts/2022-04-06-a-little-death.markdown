@@ -2,9 +2,9 @@
 layout: post
 title:  "A Little Death"
 date:   2022-04-06
-categories: 练车
+categories: 有名字的车车
 permalink: /a-little-death/
-tags: 原创 flip 练车
+tags: 原创 flip
 ---
 
 
