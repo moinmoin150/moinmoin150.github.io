@@ -5,6 +5,7 @@ date:   2022-06-04
 categories: 意外礼物
 permalink: /tan-pai-xia/
 tags: 意外礼物 翻译 TopGellert JessicaGraves
+subtitle: 摊牌（下）
 ---
 
 ## 第二十四章：摊牌（下）
