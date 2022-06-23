@@ -4,7 +4,7 @@ title:  "意外礼物（21.1）"
 date:   2022-03-07 
 categories: 意外礼物
 permalink: /chu-you-shang/
-tags: 意外礼物 翻译 TopGellert JessicaGraves
+tags: 意外礼物 翻译 TopGellert JessicaGraves 3P BottomNewt
 ---
 
 ## 第二十一章：出游（上）
