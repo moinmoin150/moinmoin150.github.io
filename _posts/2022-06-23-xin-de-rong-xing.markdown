@@ -5,6 +5,7 @@ date:   2022-06-23
 categories: 意外礼物
 permalink: /xin-de-rong-xing/
 tags: 意外礼物 翻译 TopGellert JessicaGraves
+subtitle: 新的荣幸
 ---
 
 ## 第二十五章：新的荣幸（上）
