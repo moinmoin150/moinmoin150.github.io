@@ -40,10 +40,10 @@ title: 分类
         {% assign sortedPosts = site.categories[category_name] | sort: 'title' %}
         <ul>
         {% for post in sortedPosts %}
-            <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> 
-              {% if post.subtitle != null %}
-                  {{ post.subtitle }}
-              {% endif %}
+            <li>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{post.title}}{% if post.subtitle != null %}: {{ post.subtitle }}{% endif %}
+              </a>
             </li>
         {% endfor %}
         </ul>
