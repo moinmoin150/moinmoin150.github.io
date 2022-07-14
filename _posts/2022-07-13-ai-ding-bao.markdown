@@ -2,7 +2,7 @@
 layout: post
 title:  "爱丁堡的巴尔莫勒尔酒店。"
 date:   2022-07-13
-categories: Table For Two
+categories: Table_For_Two
 permalink: /ai-ding-bao/
 tags: 翻译 Jvdas TopGellert
 ---
