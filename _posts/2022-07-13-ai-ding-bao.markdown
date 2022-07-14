@@ -6,7 +6,7 @@ categories: Table For Two
 permalink: /ai-ding-bao/
 tags: 翻译 Jvdas TopGellert
 ---
-*合译者： [@抹茶橘子蛋糕](https://mochajuzidangao.lofter.com)*
+*合译者： [@抹茶橘子蛋糕](https://mochajuzidangao.lofter.com)* <br>
 *原作：The Balmoral hotel, Edinburgh. by jvdas, periculid*
 
 
