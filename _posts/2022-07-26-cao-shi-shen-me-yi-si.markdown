@@ -7,6 +7,7 @@ permalink: /cao-shi-shen-me-yi-si/
 tags: 原创 练车 TopGellert
 ---
 
+* [野兽AU](https://moinmoin150.lofter.com/post/1ebe7c87_2b5f70106)番外
 
 > 亲爱的阿不思，
 > 
