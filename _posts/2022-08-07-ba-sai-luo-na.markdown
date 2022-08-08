@@ -13,13 +13,13 @@ tags: 翻译 Jvdas TopGellert
 
 （以下为西班牙语）
 
-> <strong> 敬启者，
+> <strong>敬启者，</strong>
 > 
-> 已为您预留1919年12月13日至14日的套房，登记于格林德沃先生名下。
+> <strong>已为您预留1919年12月13日至14日的套房，登记于格林德沃先生名下。</strong>
 > 
-> 恭候光临\
-> 巴塞罗那卡罗纳公爵夫人酒店\
-> Duquesa de Cardona </strong>
+> <strong>恭候光临</strong>\
+> <strong>巴塞罗那卡罗纳公爵夫人酒店</strong>\
+> <strong>Duquesa de Cardona </strong>
 
 
 
