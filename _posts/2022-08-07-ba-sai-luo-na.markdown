@@ -11,8 +11,7 @@ tags: 翻译 Jvdas TopGellert
 
 
 
-（以下为西班牙语）
-
+>（以下为西班牙语）\
 > <strong>敬启者，</strong>
 > 
 > <strong>已为您预留1919年12月13日至14日的套房，登记于格林德沃先生名下。</strong>
