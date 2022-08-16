@@ -4,7 +4,7 @@ title:  "Trigger"
 date:   2022-07-29
 categories: 有名字的车车
 permalink: /trigger/
-tags: 原创 练车 Vogelwald TopAnton featured
+tags: 原创 练车 Vogelwald TopAnton 
 ---
 
 
