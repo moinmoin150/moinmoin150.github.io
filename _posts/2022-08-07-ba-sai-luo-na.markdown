@@ -4,7 +4,7 @@ title:  "GGAD在巴塞罗那卡罗纳公爵夫人酒店。"
 date:   2022-08-07
 categories: Table_For_Two
 permalink: /ba-sai-luo-na/
-tags: 翻译 Jvdas TopGellert featured
+tags: 翻译 Jvdas TopGellert
 ---
 *合译者： [@抹茶橘子蛋糕](https://mochajuzidangao.lofter.com)* <br>
 *原作：Hotel Duquesa de Cardona, Barcelona. by jvdas, periculid*
