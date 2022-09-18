@@ -4,7 +4,7 @@ title:  "完美陌生人"
 date:   2022-09-02
 categories: One-shots
 permalink: /wan-mei-mo-sheng-ren/
-tags: 翻译 TopAlbus featured
+tags: 翻译 TopAlbus 
 ---
 
 *原作：Perfect Stranger by earthphoenix (roughknuckles)*
