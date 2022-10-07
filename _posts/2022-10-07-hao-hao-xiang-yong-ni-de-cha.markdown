@@ -3,9 +3,10 @@ layout: post
 title:  "好好享用你的茶。"
 date:   2022-10-07
 categories: Table_For_Two
-permalink: /an-shi-hui-jia/
+permalink: /hao-hao-xiang-yong-ni-de-cha/
 tags: 翻译 Jvdas TopGellert
 ---
+
 *原作：Enjoy Your Cup Of Tea. by jvdas*
 
 
