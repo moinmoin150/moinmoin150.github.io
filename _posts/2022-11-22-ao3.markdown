@@ -5,8 +5,6 @@ date:   2022-11-22
 categories: 其他
 permalink: /ao3/
 tags: 原创 featured
-image: /assets/article_images/FanPlatformsOverTime.jpg
-image2: /assets/article_images/Fanlibstrongman.jpg
 ---
 
 
@@ -18,14 +16,13 @@ The Archive of Our Own，简称AO3，一直是一个特别的存在：
 它的存在几乎像是一个由绝大多数女性成员创造、参与、交换的“社会实验”
 它起源于民间自发性的倡议，一小群LiveJournal上互为好友的同人创作者经由头脑风暴、缓慢呈现，发展成如今拥有2w+同人圈，200w+作品的社群
 
-<img src="https://github.com/moinmoin150/moinmoin150.github.io/blob/master/assets/article_images/FanPlatformsOverTime.jpg">
+![Untitled](/assets/article_images/FanPlatformsOverTime.jpg)
 
 
 一切开始于2007年，AO3诞生的导火索有这么几个事件：
 
 1.  2007年年初，盈利平台<a href="https://fanlore.org/wiki/FanLib">FanLib</a>开门营业，它当时的全男性领导层没有任何同人圈成员，被认为是外来商人剥削免费创作的内容、挖掘利用饭圈盈利的实例。比如它的某则广告是这样的：
-<img src="https://github.com/moinmoin150/moinmoin150.github.io/blob/master/assets/article_images/Fanlibstrongman.jpg">
-
+![Untitled2](/assets/article_images/Fanlibstrongman.jpg)
 
 2. 2007年4月26日，用户cupidsbow的一则名为<a href="https://fanlore.org/wiki/How_Fanfiction_Makes_Us_Poor">“同人小说是如何让我们贫穷的”</a>的帖子引起了广泛关注，摘录如下：
 
