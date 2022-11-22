@@ -105,8 +105,8 @@ telarna (tumblr) 回忆：
 
 
 
-<br \>
-<br \>
+<br>
+<br>
 
 自此之后，AO3项目就正式开始实施了——
 【LJ上OTW 2007年五月起的公示编年史记录<a target="_blank" rel="noopener noreferrer" href="https://otw-news.livejournal.com/2007/05/">见此</a>】
@@ -147,8 +147,8 @@ telarna (tumblr) 回忆：
 (欢迎继续深挖<a target="_blank" rel="noopener noreferrer" href="https://otw-news.livejournal.com/2007/05/">这里的记录</a>，一直持续至今)
 
 
-<br \>
-<br \>
+<br>
+<br>
 
 经过一年多的筹备，AO3的第一篇作品发布于2008年9月13日，2009年11月14日正式公测。
 
@@ -156,5 +156,12 @@ telarna (tumblr) 回忆：
 
 它运行至今。
 
+<br>
+<br>
 
+扩展阅读：
+Casey Fiesler教授对同人圈迁移的研究论文<a target="_blank" rel="noopener noreferrer" href="https://cmci.colorado.edu/~cafi5706/CSCW2020_MovingAcrossLands.pdf">Moving Across Lands: Online Platform Migration in Fandom Communities</a>
+AO3背后的程序大佬james介绍AO3的技术框架<a target="_blank" rel="noopener noreferrer" href="https://archiveofourown.org/works/11689068">The Technical Architecture of the Archive of Our Own</a>
+关于如何处置成人内容的重要倡议与讨论 by <a target="_blank" rel="noopener noreferrer" href=""https://otw-news.livejournal.com/4395.html">libgirl</a>
 
+  
