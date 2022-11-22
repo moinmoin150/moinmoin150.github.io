@@ -21,10 +21,11 @@ The Archive of Our Own，简称AO3，一直是一个特别的存在：
 
 一切开始于2007年，AO3诞生的导火索有这么几个事件：
 
-1.  2007年年初，盈利平台<a target="_blank" rel="noopener noreferrer" href="https://fanlore.org/wiki/FanLib">FanLib</a>开门营业，它当时的全男性领导层没有任何同人圈成员，被认为是外来商人剥削免费创作的内容、挖掘利用饭圈盈利的实例。比如它的某则广告是这样的：
+1、2007年年初，盈利平台<a target="_blank" rel="noopener noreferrer" href="https://fanlore.org/wiki/FanLib">FanLib</a>开门营业，它当时的全男性领导层没有任何同人圈成员，被认为是外来商人剥削免费创作的内容、挖掘利用饭圈盈利的实例。比如它的某则广告是这样的：\
+
 ![](/assets/article_images/Fanlibstrongman.jpg)
 
-2. 2007年4月26日，用户cupidsbow的一则名为<a target="_blank" rel="noopener noreferrer" href="https://fanlore.org/wiki/How_Fanfiction_Makes_Us_Poor">“同人小说是如何让我们贫穷的”</a>的帖子引起了广泛关注，摘录如下：
+2、2007年4月26日，用户cupidsbow的一则名为<a target="_blank" rel="noopener noreferrer" href="https://fanlore.org/wiki/How_Fanfiction_Makes_Us_Poor">“同人小说是如何让我们贫穷的”</a>的帖子引起了广泛关注，摘录如下：
 
 > 我想问这么几个问题：同人文反资本主义的一面是否是一种压制女性艺术发声的方式？它会不会掐灭我们利用自己创造的东西挣钱的合理机会？
 >
@@ -58,7 +59,7 @@ cathexys:
 
 
 
-3. 2007年五月起兴起的为<a target="_blank" rel="noopener noreferrer" href="https://fanlore.org/wiki/Strikethrough_and_Boldthrough">"Strikethrough" 和 "Boldthrough"事件</a>：当时同人作品主要聚居的平台LiveJournal (LJ) 突然决定收紧政策，批量、无预警地删除被定义为色情/不正当的内容（是不是感觉似曾相识...），许多创作者感到了前所未有的威胁，即使未被波及，也失去了安全感。
+3、2007年五月起兴起的为<a target="_blank" rel="noopener noreferrer" href="https://fanlore.org/wiki/Strikethrough_and_Boldthrough">"Strikethrough" 和 "Boldthrough"事件</a>：当时同人作品主要聚居的平台LiveJournal (LJ) 突然决定收紧政策，批量、无预警地删除被定义为色情/不正当的内容（是不是感觉似曾相识...），许多创作者感到了前所未有的威胁，即使未被波及，也失去了安全感。
 
 Soyalex回忆说：
 
@@ -82,7 +83,7 @@ telarna (tumblr) 回忆：
 
 
 
-4. 2007年五月，astolat——AO3的倡议与奠基者——在LJ上发表了一篇名为<a href="https://fanlore.org/wiki/An_Archive_Of_One%27s_Own_(post_by_astolat)">“一个人自己的档案(An Archive Of One's Own)”</a>的帖子，节选如下：
+4、2007年五月，astolat——AO3的倡议与奠基者——在LJ上发表了一篇名为<a href="https://fanlore.org/wiki/An_Archive_Of_One%27s_Own_(post_by_astolat)">“一个人自己的档案(An Archive Of One's Own)”</a>的帖子，节选如下：
 
 > 我们安静地围坐在壁炉边，创造出成堆成堆的作品，别人路过，就看到了商机，而他们会去创造出一个个大门，让新创作者走进来，除非我们站起来，创造出我们自己的大门。
 > 
