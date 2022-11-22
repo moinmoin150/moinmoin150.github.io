@@ -9,13 +9,13 @@ tags: 原创 featured
 
 
 The Archive of Our Own，简称AO3，一直是一个特别的存在：
-
-与大部分社交媒体平台不同，它是非盈利、无广告的
-作为一个名副其实的“档案”，它没有推荐程序，没有花哨功能
-它打开大门欢迎所有人（除了禁掉它的地区），一切控制权交由创作者，没有一个更高的存在设定规则、审核监管
-它的存在几乎像是一个由绝大多数女性成员创造、参与、交换的“社会实验”
-它起源于民间自发性的倡议，一小群LiveJournal上互为好友的同人创作者经由头脑风暴、缓慢呈现，发展成如今拥有2w+同人圈，200w+作品的社群
-
+<ul>
+  <li>与大部分社交媒体平台不同，它是非盈利、无广告的</li>
+  <li>作为一个名副其实的“档案”，它没有推荐程序，没有花哨功能</li>
+  <li>它打开大门欢迎所有人（除了禁掉它的地区），一切控制权交由创作者，没有一个更高的存在设定规则、审核监管</li>
+  <li>它的存在几乎像是一个由绝大多数女性成员创造、参与、交换的“社会实验”</li>
+  <li>它起源于民间自发性的倡议，一小群LiveJournal上互为好友的同人创作者经由头脑风暴、缓慢呈现，发展成如今拥有2w+同人圈，200w+作品的社群</li>
+</ul>
 ![](/assets/article_images/FanPlatformsOverTime.jpg)
 (<a target="_blank" rel="noopener noreferrer" href="https://cmci.colorado.edu/~cafi5706/FanPlatformsOverTime.jpg">点击见原图</a>)
 
@@ -160,10 +160,10 @@ telarna (tumblr) 回忆：
 <br>
 
 扩展阅读：
-Casey Fiesler教授对同人圈迁移的研究论文<a target="_blank" rel="noopener noreferrer" href="https://cmci.colorado.edu/~cafi5706/CSCW2020_MovingAcrossLands.pdf">Moving Across Lands: Online Platform Migration in Fandom Communities</a> \
+- Casey Fiesler教授对同人圈迁移的研究论文<a target="_blank" rel="noopener noreferrer" href="https://cmci.colorado.edu/~cafi5706/CSCW2020_MovingAcrossLands.pdf">Moving Across Lands: Online Platform Migration in Fandom Communities</a> \
 
-AO3背后的程序大佬james介绍AO3的技术框架<a target="_blank" rel="noopener noreferrer" href="https://archiveofourown.org/works/11689068">The Technical Architecture of the Archive of Our Own</a> \
+- AO3背后的程序大佬james介绍AO3的技术框架<a target="_blank" rel="noopener noreferrer" href="https://archiveofourown.org/works/11689068">The Technical Architecture of the Archive of Our Own</a> \
 
-关于如何处置成人内容的重要倡议与讨论 by <a target="_blank" rel="noopener noreferrer" href="https://otw-news.livejournal.com/4395.html">libgirl</a>
+- 关于如何处置成人内容的重要倡议与讨论 by <a target="_blank" rel="noopener noreferrer" href="https://otw-news.livejournal.com/4395.html">libgirl</a>
 
   
