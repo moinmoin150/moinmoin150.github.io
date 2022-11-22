@@ -160,8 +160,10 @@ telarna (tumblr) 回忆：
 <br>
 
 扩展阅读：
-Casey Fiesler教授对同人圈迁移的研究论文<a target="_blank" rel="noopener noreferrer" href="https://cmci.colorado.edu/~cafi5706/CSCW2020_MovingAcrossLands.pdf">Moving Across Lands: Online Platform Migration in Fandom Communities</a>
-AO3背后的程序大佬james介绍AO3的技术框架<a target="_blank" rel="noopener noreferrer" href="https://archiveofourown.org/works/11689068">The Technical Architecture of the Archive of Our Own</a>
-关于如何处置成人内容的重要倡议与讨论 by <a target="_blank" rel="noopener noreferrer" href=""https://otw-news.livejournal.com/4395.html">libgirl</a>
+Casey Fiesler教授对同人圈迁移的研究论文<a target="_blank" rel="noopener noreferrer" href="https://cmci.colorado.edu/~cafi5706/CSCW2020_MovingAcrossLands.pdf">Moving Across Lands: Online Platform Migration in Fandom Communities</a> \
+
+AO3背后的程序大佬james介绍AO3的技术框架<a target="_blank" rel="noopener noreferrer" href="https://archiveofourown.org/works/11689068">The Technical Architecture of the Archive of Our Own</a> \
+
+关于如何处置成人内容的重要倡议与讨论 by <a target="_blank" rel="noopener noreferrer" href="https://otw-news.livejournal.com/4395.html">libgirl</a>
 
   
