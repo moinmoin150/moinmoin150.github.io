@@ -39,7 +39,7 @@ Soon enough, Anton had to admit that Gellert was better than him in almost every
 
 The closer they got, the more clearly he saw that this man had unlimited potential, and with an attitude that bordered on paranoia, he held on to what he wanted – or, rather, resisted what he knew he absolutely didn't want.
 
-<i>We should stand in the light. We must make changes – young voices spoke of grand ideals – Not for someone else, not for the future, but now; it has to be us, has to be me.</i>
+<i>We should stand in the light. We must make changes</i> – young voices spoke of grand ideals – <i>Not for someone else, not for the future, but now; it has to be us, has to be me.</i>
 
 *
 
@@ -89,13 +89,13 @@ In any case, he was pleased that his piano was singing again – this time, with
 
 "Does she know that you play and compose?" Anton asked in a casual tone, leaning against the piano.
 
-"No," Gellert mumbled, biting his pen and studying the manuscript, before correcting him. "He doesn't."
+"No," Gellert mumbled, biting his pen and studying the manuscript, before correcting him. "<i>He</i> doesn't."
 
 Anton's eyes followed the pendant around Gellert's neck, which would sway slightly with the movements of the young performer, reflecting colorful rays of light in the sun. His eyes darkened at that.
 
 And Gellert seemed to have seen through him. He didn't stop playing, but added with a half-smile on his lips, "But who really knows who?" he concluded his performance with a glissando and looked up at Anton. "If really seen, who would still be loved?" 
 
-To that, Anton didn't reply, but he was looking forward to the day when he could see him. That’s when he would use himself as a counterexample and laugh at the man who liked to generalize about almost everything.
+To that, Anton didn't reply, but he was looking forward to the day when he could truly see him. That’s when he would use himself as a counterexample and laugh at the man who liked to generalize about almost everything.
 
 *
 
@@ -129,9 +129,9 @@ In big strides, Anton walked inside, rubbing his hands for some semblance of war
 
 "How would you admire the majestic exterior of my castle that way?" stated his old friend as a matter of course.
 
-With a quiet sigh, Anton rolled his eyes. "Your castle?" he noted.
+With a quiet sigh, Anton rolled his eyes. "<i>Your</i> castle?" he noted.
 
-"Nurmengard is the name." With a wave of his hands, Gellert lit up the giant wrought iron chandelier in the vestibule, and continued with a triumphant tone. "I named it; I built it; mine." In a graceful gesture, he bowed and raised his hand, and said, "If you would allow me to show you around?"
+"Nurmengard is the name." With a wave of his hands, Gellert lit up the giant wrought iron chandelier in the vestibule, and continued with a triumphant tone. "I named it; I built it; <i>mine</i>." In a graceful gesture, he bowed and raised his hand, and said, "If you would allow me to show you around?"
 
 They walked down the hallway covered by velvet carpet, past the grand drawing room with imposing floor-to-ceiling windows and spiral staircases leading to the top of the tower, but Gellert didn't seem interested in taking him there. They stayed in the study for a long time. The walls were lined with bookshelves, and there were exquisite portraits of Greek prophets covering all the empty spaces. The uniform dark tones made the whole space look solemn and elegant. Gellert went on and on with the stories behind all his collections. This man always had a strong interest in ancient legends and mysterious folklores, and now it seemed that he was finally able to house those dreams.
 
