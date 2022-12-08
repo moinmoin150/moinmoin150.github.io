@@ -281,7 +281,7 @@ Anton clenched his teeth and nodded. After thanking Nagel, he brought the potion
 
 Gellert, half lying on the pillows, snorted. He opened one eye and looked at Anton. "Don't talk. I know you want to blame me, or worse yet –" he still had the heart to tease, "to pity me."
 
-Anton lowered his head and lifted the corner of the blanket, checking the bandage wrapped around Gellert's shoulders and abdomen, and then looked away again. He blinked forcibly, feeling especially tired. "It was Dumbledore who rescued you?" He braced himself and asked calmly. Dumbledore was a name that Gellert had become increasingly reluctant to mention in recent years, the reaction to which could be anger, prevarication, denial, or escape. But now, at least, the bedridden wizard had little choice but to listen.
+Anton lowered his head and lifted the corner of the blanket, checking the bandage wrapped around Gellert's shoulders and abdomen, and then looked away again. He blinked forcibly, feeling inexplicably tired. "It was Dumbledore who rescued you?" He braced himself and asked calmly. Dumbledore was a name that Gellert had become increasingly reluctant to mention in recent years, the reaction to which could be anger, prevarication, denial, or escape. But now, at least, the bedridden wizard had little choice but to listen.
 
 As expected, Gellert pouted. "I don't want to talk about him."
 
