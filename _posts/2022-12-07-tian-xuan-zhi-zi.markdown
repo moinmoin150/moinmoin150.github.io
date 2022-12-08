@@ -229,15 +229,15 @@ Anton swallowed. He probed into the mind of the other man almost subconsciously.
 
 Countless questions had swirled around in his head for too long, but when the time came, he found it difficult to open up. "This is a blood pact, isn't it?" he asked, staring at the vial in Gellert's hand.
 
-"That is correct," Gellert answered matter-of-factly. Anton was a little taken aback by his frankness.
+"That would be correct," Gellert answered matter-of-factly. Anton was a little taken aback by his frankness.
 
 "And whose blood is contained within?"
 
 "Mine, and Dumbledore's." This was the answer he expected.
 
-"This is why you could not move against him." Anton tried to calm his voice.
+"I'm assuming that's why you can't move against him?" Anton tried to calm his voice.
 
-"Or him against me," he said with a genuine tone, and the same sincerity flared in his eyes. "So, this won't change anything, Anton, and won't get in the way of our plans. To me, he's just a mis— a trouble, a shackled beast, and a threat that’s being contained."
+"Yes. Nor him against me," he said with a genuine tone, and the same sincerity flared in his eyes. "So, this won't change anything, Anton, and won't get in the way of our plans. To me, he's just a mis— a trouble, a shackled beast, and a threat that’s being contained."
 
 Even now, right this moment, face to face, and eye to eye, this man was lying to him. No one would willingly carry shackles for decades.
 
