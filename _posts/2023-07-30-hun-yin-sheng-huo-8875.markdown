@@ -3,12 +3,12 @@ layout: post
 title:  "婚姻生活"
 date:   2023-07-30
 categories: 有名字的车车
-permalink: /hun-yin-sheng-huo-8.875/
+permalink: /hun-yin-sheng-huo-8875/
 tags: 原创 练车 abo TopAlbus
 ---
 
 
-<em>第7.875幕</em>
+<em>第8.875幕</em>
 
 
 “盖勒特。”阿不思唤着他丈夫的名字，声音很轻，像是想要叫醒对方，却又犹豫不决。被叫到名字的人还在他们的大床上熟睡，蜷起的身体裹在雪白的被单间，脑袋早就脱离了枕头，凌乱的发丝恰到好处地勾勒出他的半张脸。睡姿糟糕如常，也美得一如既往。
