@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "猫梦录音带：G面"
+title:  "猫梦录像带：G面"
 date:   2023-09-23
 categories: 有名字的车车
 permalink: /mao-meng-1/
