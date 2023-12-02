@@ -11,7 +11,7 @@ tags: 原创  featured
 
 <a href="/assets/Downloads/Traum(a).epub" class="download-button" download><i class="fa fa-book"></i> 点击下载 Traum(a) EPUB版</a>
 
-- 本合集共计逾二十八万字，收录了**非**pwp/纯车的一部分故事，进行了简单的排版和修订
+- 本合集共计逾二十八万字，收录了**非**pwp/纯车的一部分故事，进行了简单的排版和修订。
 
 - 全册无差，如果有性描写的部分也不代表角色属性，而只代表其对本次性行为的选择。
 
