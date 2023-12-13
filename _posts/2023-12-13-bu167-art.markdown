@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "羽汐太太的画"
+date:   2023-12-13
+categories: 其他
+permalink: /bu167-art/
+tags: TopAlbus
+---
+
+<img src="/assets/milktea/pg1.pdf">
+
+<img src="/assets/milktea/pg2.pdf">
+
