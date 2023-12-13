@@ -7,7 +7,19 @@ permalink: /bu167-art/
 tags: TopAlbus
 ---
 
-<img src="/assets/article_images/milktea/pg1.pdf">
+<img src="/assets/article_images/milktea/pg1.JPG">
 
-<img src="/assets/article_images/milktea/pg2.pdf">
+<img src="/assets/article_images/milktea/pg2.JPG">
+
+<img src="/assets/article_images/milktea/pg3.JPG">
+
+<img src="/assets/article_images/milktea/pg4.PNG">
+
+<img src="/assets/article_images/milktea/pg5.JPG">
+
+<img src="/assets/article_images/milktea/pg6.JPG">
+
+<img src="/assets/article_images/milktea/pg7.JPG">
+
+<img src="/assets/article_images/milktea/pg8.JPG">
 
