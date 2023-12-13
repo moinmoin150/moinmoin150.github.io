@@ -69,8 +69,7 @@ title: Home
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
-            {% assign content_start = post.content | strip_html | strip_newlines | slice: 0, 4 %}
-            {% if content_start != '<img' %}
+            {% if post.starts_with_image != true %}
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.content | truncate: 200 }}</p>
             </section>
