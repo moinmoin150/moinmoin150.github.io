@@ -5,8 +5,8 @@ date:   2023-12-13
 categories: 其他
 permalink: /bu167-art/
 tags: TopAlbus
+starts_with_image: true
 ---
-                                                                        
 <img src="/assets/article_images/milktea/pg1.JPG">
 
 <img src="/assets/article_images/milktea/pg2.JPG">
