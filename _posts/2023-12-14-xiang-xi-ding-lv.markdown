@@ -3,7 +3,7 @@ layout: post
 title:  "相吸定律。"
 date:   2023-12-14
 categories: One-shots
-permalink: /hui-yi/
+permalink: /xiang-xi-ding-lv/
 tags: 翻译 Jvdas TopGellert
 ---
 
