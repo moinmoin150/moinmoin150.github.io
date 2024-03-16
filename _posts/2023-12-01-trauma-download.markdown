@@ -7,9 +7,9 @@ permalink: /trauma-download/
 tags: 原创  featured
 ---
 
-<a href="/assets/Downloads/Traum(a).pdf" class="download-button" download><i class="fa fa-file-pdf"></i> 点击下载 Traum(a) PDF版</a>
+<a href="/assets/Downloads/Trauma_updated.pdf" class="download-button" download><i class="fa fa-file-pdf"></i> 点击下载 Traum(a) PDF版</a>
 
-<a href="/assets/Downloads/Traum(a).epub" class="download-button" download><i class="fa fa-book"></i> 点击下载 Traum(a) EPUB版</a>
+<a href="/assets/Downloads/Trauma_updated.epub" class="download-button" download><i class="fa fa-book"></i> 点击下载 Traum(a) EPUB版</a>
 
 - 本合集共计逾二十八万字，收录了**非**pwp/纯车的一部分故事，进行了简单的排版和修订。
 
